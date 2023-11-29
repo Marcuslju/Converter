@@ -1,0 +1,39 @@
+<people>
+	<person>
+		<firstname>Victoria</firstname>
+		<lastname>Bernadotte</lastname>
+		<phone>
+			<mobile>070-0101010</mobile>
+			<landline>0459-123456</landline>
+		</phone>
+		<address>
+			<street>Haga Slott</street>
+			<city>Stockholm</city>
+			<postcode>101</postcode>
+		</address>
+		<family>
+			<name>Estelle</name>
+			<born>2012</born>
+			<address>
+				<street>Solliden</street>
+				<city>Öland</city>
+				<postcode>10002</postcode>
+			</address>
+		</family>
+		<family>
+			<name>Oscar</name>
+			<born>2016</born>
+			<phone>
+				<mobile>0702-020202</mobile>
+			</phone>
+		</family>
+	</person>
+	<person>
+		<firstname>Joe</firstname>
+		<lastname>Biden</lastname>
+		<address>
+			<street>White House</street>
+			<city>Washington, D.C</city>
+		</address>
+	</person>
+</people>
